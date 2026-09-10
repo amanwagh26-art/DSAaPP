@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CivicPulse</string>
+    <string name="ward_label">Ward 4</string>
+    <string name="hello_maya">Hello, Maya</string>
+    <string name="ward_resident_tag">WARD 4 RESIDENT</string>
+    <string name="resident_subtitle">Let\'s keep our neighborhood clean, safe, and vibrant today.</string>
+    <string name="report_new_issue">Report New Issue</string>
+    <string name="start_quick_report">Start Quick Report</string>
+    <string name="active_cases">My Active Cases</string>
+    <string name="resolved_by_city">Resolved by City</string>
+    <string name="recent_near_you">Recent Near You</string>
+    <string name="step_details">Step 1 of 2: Details &amp; Evidence</string>
+    <string name="step_geotag">Step 2 of 2: Verify Geotag</string>
+    <string name="submit_complaint">Submit Complaint</string>
+</resources>

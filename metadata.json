@@ -1,0 +1,6 @@
+{
+  "name": "CivicPulse",
+  "description": "Civic grievance reporting and municipal resolution tracking portal for smart city governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
